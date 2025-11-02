@@ -546,5 +546,3 @@ sagemaker-deploy:
 * If FAISS wheels exceed Lambda limits, switch clustering to Fargate
 * If endpoint idle cost is high, use SageMaker Serverless or batch Transform
 * For very large albums, shard clustering by day, then merge with hierarchical pass
-#   F a c e f l o w  
- 
