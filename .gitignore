@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+node_modules/
+.next/
+.dist/
+dist/
+.DS_Store
+pip-wheel-metadata/
+
+# pnpm
+pnpm-lock.yaml
